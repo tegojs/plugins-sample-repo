@@ -13,9 +13,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
-    "@rsbuild/core": "1.3.22",
-    "@tachybase/build": "1.3.6",
-    "@tachybase/cli": "1.3.6",
+    "@tachybase/build": "1.3.9",
+    "@tachybase/cli": "1.3.9",
     "@tachybase/engine": "workspace:*",
     "pm2": "6.0.8",
     "sqlite3": "5.1.7",

@@ -37,3 +37,4 @@ storage/*
 tsconfig.paths.json
 v8-compile-cache-**
 docs-repo-temp/
+plugins/
