@@ -42,47 +42,47 @@ importers:
         specifier: 1.0.19
         version: 1.0.19
       '@tachybase/acl':
-        specifier: 1.3.15
-        version: 1.3.15
+        specifier: ^1.3.16
+        version: 1.3.16
       '@tachybase/actions':
-        specifier: 1.3.15
-        version: 1.3.15(@types/node@24.0.10)(encoding@0.1.13)(mariadb@2.5.6)(mysql2@3.14.1)(pg-hstore@2.3.4)(pg@8.16.3)(sqlite3@5.1.7)
+        specifier: ^1.3.16
+        version: 1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)
       '@tachybase/auth':
-        specifier: 1.3.15
-        version: 1.3.15(@types/node@24.0.10)(encoding@0.1.13)(mariadb@2.5.6)(mysql2@3.14.1)(pg-hstore@2.3.4)(pg@8.16.3)(sqlite3@5.1.7)
+        specifier: ^1.3.16
+        version: 1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)
       '@tachybase/cache':
-        specifier: 1.3.15
-        version: 1.3.15
+        specifier: ^1.3.16
+        version: 1.3.16
       '@tachybase/data-source':
-        specifier: 1.3.15
-        version: 1.3.15(@types/node@24.0.10)(encoding@0.1.13)(mariadb@2.5.6)(mysql2@3.14.1)(pg-hstore@2.3.4)(pg@8.16.3)(sqlite3@5.1.7)
+        specifier: ^1.3.16
+        version: 1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)
       '@tachybase/database':
-        specifier: 1.3.15
-        version: 1.3.15(@types/node@24.0.10)(encoding@0.1.13)(mariadb@2.5.6)(mysql2@3.14.1)(pg-hstore@2.3.4)(pg@8.16.3)(sqlite3@5.1.7)
+        specifier: ^1.3.16
+        version: 1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)
       '@tachybase/evaluators':
-        specifier: 1.3.15
-        version: 1.3.15
+        specifier: ^1.3.16
+        version: 1.3.16
       '@tachybase/globals':
-        specifier: 1.3.15
-        version: 1.3.15
+        specifier: ^1.3.16
+        version: 1.3.16
       '@tachybase/loader':
-        specifier: 1.3.15
-        version: 1.3.15
+        specifier: ^1.3.16
+        version: 1.3.16
       '@tachybase/logger':
-        specifier: 1.3.15
-        version: 1.3.15
+        specifier: ^1.3.16
+        version: 1.3.16
       '@tachybase/resourcer':
-        specifier: 1.3.15
-        version: 1.3.15
+        specifier: ^1.3.16
+        version: 1.3.16
       '@tachybase/schema':
-        specifier: 1.3.15
-        version: 1.3.15(react@18.3.1)
+        specifier: ^1.3.16
+        version: 1.3.16(react@18.3.1)
       '@tachybase/server':
-        specifier: 1.3.15
-        version: 1.3.15(@types/node@24.0.10)(encoding@0.1.13)(mariadb@2.5.6)(mysql2@3.14.1)(pg-hstore@2.3.4)(pg@8.16.3)(sqlite3@5.1.7)
+        specifier: ^1.3.16
+        version: 1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)
       '@tachybase/utils':
-        specifier: 1.3.15
-        version: 1.3.15
+        specifier: ^1.3.16
+        version: 1.3.16
       async-mutex:
         specifier: 0.3.0
         version: 0.3.0
@@ -166,8 +166,8 @@ importers:
         version: 5.0.0(winston@3.17.0)
     devDependencies:
       '@tachybase/client':
-        specifier: 1.3.15
-        version: 1.3.15(@types/react@18.3.18)(encoding@0.1.13)(luxon@3.6.1)(moment@2.30.1)(monaco-editor@0.52.2)(rc-field-form@2.7.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react-is@18.3.1)(react@18.3.1)(typescript@5.8.3)
+        specifier: ^1.3.16
+        version: 1.3.16(@types/react@18.3.18)(encoding@0.1.13)(luxon@3.6.1)(moment@2.30.1)(monaco-editor@0.52.2)(rc-field-form@2.7.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react-is@18.3.1)(react@18.3.1)(typescript@5.8.3)
       '@types/lodash':
         specifier: 4.17.18
         version: 4.17.18
@@ -196,11 +196,11 @@ importers:
         specifier: 1.0.4
         version: 1.0.4(@rsbuild/core@1.4.2)
       '@tachybase/client':
-        specifier: 1.3.15
-        version: 1.3.15(@types/react@18.3.18)(encoding@0.1.13)(luxon@3.6.1)(moment@2.30.1)(monaco-editor@0.52.2)(rc-field-form@2.7.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react-is@18.3.1)(react@18.3.1)(typescript@5.8.3)
+        specifier: ^1.3.16
+        version: 1.3.16(@types/react@18.3.18)(encoding@0.1.13)(luxon@3.6.1)(moment@2.30.1)(monaco-editor@0.52.2)(rc-field-form@2.7.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react-is@18.3.1)(react@18.3.1)(typescript@5.8.3)
       '@tego/devkit':
-        specifier: 1.3.15
-        version: 1.3.15(@pnpm/logger@5.2.0)(@types/node@24.0.10)(jiti@2.4.2)(postcss@8.5.6)(yaml@2.8.0)
+        specifier: ^1.3.16
+        version: 1.3.16(@pnpm/logger@5.2.0)(@types/node@24.0.10)(jiti@2.4.2)(postcss@8.5.6)(yaml@2.8.0)
       '@types/react':
         specifier: 18.3.18
         version: 18.3.18
@@ -220,13 +220,13 @@ importers:
   packages/plugin-sample-hello:
     dependencies:
       '@tachybase/client':
-        specifier: 1.3.15
-        version: 1.3.15(@types/react@18.3.18)(encoding@0.1.13)(luxon@3.6.1)(moment@2.30.1)(monaco-editor@0.52.2)(rc-field-form@2.7.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react-is@18.3.1)(react@18.3.1)(typescript@5.8.3)
+        specifier: ^1.3.15
+        version: 1.3.16(@types/react@18.3.18)(encoding@0.1.13)(luxon@3.6.1)(moment@2.30.1)(monaco-editor@0.52.2)(rc-field-form@2.7.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react-is@18.3.1)(react@18.3.1)(typescript@5.8.3)
       '@tachybase/server':
-        specifier: 1.3.15
-        version: 1.3.15(@types/node@24.0.10)(encoding@0.1.13)(mariadb@2.5.6)(mysql2@3.14.1)(pg-hstore@2.3.4)(pg@8.16.3)(sqlite3@5.1.7)
+        specifier: ^1.3.15
+        version: 1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)
       '@tachybase/test':
-        specifier: 1.3.15
+        specifier: ^1.3.15
         version: 1.3.15(@types/debug@4.1.12)(@types/node@24.0.10)(@types/react-dom@18.3.5(@types/react@18.3.18))(@types/react@18.3.18)(canvas@2.11.2(encoding@0.1.13))(encoding@0.1.13)(node-fetch@2.7.0(encoding@0.1.13))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
 
 packages:
@@ -1981,59 +1981,97 @@ packages:
   '@tachybase/acl@1.3.15':
     resolution: {integrity: sha512-ZXSWfpbSrXuEjWeYnlApanD7yIUqovWYCCEMhDANtgDzXVix0Duv202HNGQQzQhZvAi8uIUZHhjY1wxrIgOMzA==}
 
+  '@tachybase/acl@1.3.16':
+    resolution: {integrity: sha512-JYSy9rZhZUbOPTldKvSpvQot5SH5d92pWf5hc/eq/urGPGK+i85P9XsGM+L4dawdeMRhlRvKkGs22Wn4U1BSEw==}
+
   '@tachybase/actions@1.3.15':
     resolution: {integrity: sha512-X8w2bX1+ju6LUdBgu5U2xeEBv0ocaKVk28g0OjiyRrT/3ppqPWoOGk+JGqfffeOovmMCMj+F+wU7hMb6W6oDAA==}
+
+  '@tachybase/actions@1.3.16':
+    resolution: {integrity: sha512-/sqCLgxScby8E0OZfpV8ER9liDxo2ArtYg8O7rRhK3VxRlHNKYx6nc6fos/DV3bczjr7rBXOXo7NipWn12rwmw==}
 
   '@tachybase/auth@1.3.15':
     resolution: {integrity: sha512-P7mRiQKJMxcj16KRK0yntbdUxtJE3k9fUfAKkq3Df9gBSrKPepfEJl6vrKDuja6zIReUcELuY4+7R6LWOtTMHA==}
 
+  '@tachybase/auth@1.3.16':
+    resolution: {integrity: sha512-sw7yiYkwbl/PwhcLZvSGGhYwAZNy3looS8z/nth9OFPhBntCsul7ogJsAgQlPX1WjhgSjx/zkn7gwc6pZOU3ig==}
+
   '@tachybase/cache@1.3.15':
     resolution: {integrity: sha512-XITVqgYRdoos1H0++LHUftD1qWZOZGAsWrg19bJ3Cga1kczh00B+sSn/EQE3fFYIniLKJK0sHJX6Wle3Vf6NaQ==}
 
-  '@tachybase/client@1.3.15':
-    resolution: {integrity: sha512-V+o2yelpPY5BWKaKS9Y9fACCHp7QAPEhEF0BelSTyJg7NUJ4MNRlL5dRghzrqOMb3kicgErgMdgCTMe/NAnP6g==}
+  '@tachybase/cache@1.3.16':
+    resolution: {integrity: sha512-kmXJsgJgBzPg4El6I/0qtBnrZy++nY5gHbp66l7v9Xr9qohrcaWrnA5pgVwEFLh+MJs3OWi++7YrWANGiPPlZg==}
+
+  '@tachybase/client@1.3.16':
+    resolution: {integrity: sha512-yP3blUN2yeQZKlGiLj/yPaQiot2h1A5+hHl1vVxB4RFTpbxLcAJcOlg4cBSUoDeL92MzNwP+D6w8C+XOfzjuYQ==}
     peerDependencies:
       react: '>=18.0.0'
       react-dom: '>=18.0.0'
       react-is: '>=18.0.0'
 
-  '@tachybase/components@1.3.15':
-    resolution: {integrity: sha512-pbypfb/yrcviAkR+bAgjhfALQuvC6tbpr5Vi/+KX3j8qh3Pi5TQCy5IPmhr5jy73iZ3gKBRC78cuDJVW2Rm1cw==}
+  '@tachybase/components@1.3.16':
+    resolution: {integrity: sha512-xMSgHoRSj7wVgXe41s0UxDdkftpM3MFQhMZUdcXiwMwf2wmlWe+UkE6Rb4UqBFZd6kA3Xe7Tmdvr3+bAV1A+tA==}
 
   '@tachybase/data-source@1.3.15':
     resolution: {integrity: sha512-YKFKrKMFlOgh6e6HYStL/ei9nzr5FiP6dd84+CCdnVI+v7pcRSJTAJgpX3NLxUbBPYrmiEFifWVZxlaMTLtzUQ==}
 
+  '@tachybase/data-source@1.3.16':
+    resolution: {integrity: sha512-1CTM4n+coX9glpes3IQDwcWZNj280lKGlpgJ8HllAfU778vXiqasZH7YNHPmtEPqAWRjW0ef5ABaNYGUq5nEBQ==}
+
   '@tachybase/database@1.3.15':
     resolution: {integrity: sha512-EEIbKX+mPV5qN+K3HXLuV9tMGtWOiJxshZs6pKmR4eUP751u05PD8xJgQ+HTEukh/HenRV8CMYi7ci3JxlhLSA==}
+
+  '@tachybase/database@1.3.16':
+    resolution: {integrity: sha512-6DM76rHONs0glQ1sOZOA1glK1uRogxS8sEPvnvfuAXr3xtWdaSuISmF8bxzidDi48NyiyunOiFniIP+WZg/8Sw==}
 
   '@tachybase/evaluators@1.3.15':
     resolution: {integrity: sha512-ozWkfLHuGqu0g2RkQ29ycV+GJwOrZZQe7LlNHtLN2LXKAkbHvf/MAoixQRK8vo38Gh8/TF1tTD+nJjWgliRJtg==}
 
+  '@tachybase/evaluators@1.3.16':
+    resolution: {integrity: sha512-Tpmsjfa8cE7UPJwWmYtKyIwTcFUJiP+4Tv8vjJuvwCuzcpfjo+6er1Hr0GkfNNOeLkvvQcc16Ftjirg+z2zqxg==}
+
   '@tachybase/globals@1.3.15':
     resolution: {integrity: sha512-9nk3Uv4/iybWqcN4ti1j3hStz9bL6ovOyx2C6iEOQGyEEOgjakEA/+sJfNH28GrMu1cSs7ZIDXldp8Jd8Lpqyw==}
 
-  '@tachybase/loader@1.3.15':
-    resolution: {integrity: sha512-1sWeB5V7TQP9yrDVFu8Z2GjrwWsuUrkQTuFNp8vI50+eS7TshrmVCEPamWWIOdzEbN5l7oU372dL4bG8oaiDYg==}
+  '@tachybase/globals@1.3.16':
+    resolution: {integrity: sha512-BNEvB2QYyxsL94mikSdzUm25dJBFfmRoLqko6og9jQVxj5u5Nkuj3MSkk3j3NdMOaZVHQ7z4jkfY2xvnH5eNNA==}
+
+  '@tachybase/loader@1.3.16':
+    resolution: {integrity: sha512-mB346EJCqiZSd6GIGT5kc0SDcmeVUQ4tvg6Wb+ucYQaxNErJT/8q+B5sWfFvWCkSNLoCcyjMi0SB8GGXsEalfA==}
 
   '@tachybase/logger@1.3.15':
     resolution: {integrity: sha512-KrHWiiI/hBAGQvWGG6YfNxXgXLrEjKXAbykfwJTOWcrfLWcNR3AwO2k+9Thzs+THelv1JLAEcNJ6/1E6r5PoNA==}
 
-  '@tachybase/requirejs@1.3.15':
-    resolution: {integrity: sha512-z4kjNDTMdyl/qdF0lcbyKUgaNcl+aVsZgVaBYpVTtBWAdXk2zKLPyUhzyAaucvPyVLzKVsIzXaNGjUPGct59Tg==}
+  '@tachybase/logger@1.3.16':
+    resolution: {integrity: sha512-YqOdYLmROSmiYThJg+Q6NZRTUZFAOn5heJg+MzCbHNDo/56+hnZuer3ZFTSRai+qrLqIqSX1zvqQiDbmJcyvjw==}
+
+  '@tachybase/requirejs@1.3.16':
+    resolution: {integrity: sha512-r67JESTcEn8YfhwQSC1NGhnvo9CCms/LRPYaIRXN82nuS9XlhS7Wu3QXtkxW28QMFM6qiwuCMckA+LE5tk2Yhw==}
 
   '@tachybase/resourcer@1.3.15':
     resolution: {integrity: sha512-lTSBhRfu190ntjbbtUKC5Ibr5ZzxAAmc1VyNJHoQClQAkLbHWjZtHzXvwuzD0+j47eQY32Wf4l6qr/ohu+iNSg==}
+
+  '@tachybase/resourcer@1.3.16':
+    resolution: {integrity: sha512-L3fjT9gfn3GNkCXvb6Q0pTLY46xcwjS+0wg4ddjbpGDhtCIvCRBbTH5oCa4QO6qBiUOtnQQCpcR2lM9yShHEQQ==}
 
   '@tachybase/schema@1.3.15':
     resolution: {integrity: sha512-v7OhtoXezF8rL3bOFzjc8omQ+cc6RBfD627Bb4oFRlOXkz6EXFR5N0QaE0s8aEIVMQKSi99HT+FCqSgD0br8rw==}
     peerDependencies:
       react: '>=16.8.0'
 
-  '@tachybase/sdk@1.3.15':
-    resolution: {integrity: sha512-86VJw0qdEzS5BeDd1mfVPjPvDVuKn9v/WeH71IzLo9S3k/pPIwnqjSGCnRjiorYid0ybiVXWDWgYvE2Vd7o1sA==}
+  '@tachybase/schema@1.3.16':
+    resolution: {integrity: sha512-8ZvjZfb5jeCdcdexRwfyJ151IX7s/wzlcXSFEG16rcIiZCGUA4s6qCTEUCg+4MeSzwS5F9dq3XCQ0q3h2QgvEg==}
+    peerDependencies:
+      react: '>=16.8.0'
+
+  '@tachybase/sdk@1.3.16':
+    resolution: {integrity: sha512-uP9eK4Qljwbrw4WjnlrgR3NgzvFZSrhx+2Q5FMLFbAMexkzTIGI21CyLsxKZz3YZumy/JmDvrGRH8q4qOhHxlQ==}
 
   '@tachybase/server@1.3.15':
     resolution: {integrity: sha512-CaLOLak0K1Mv7UekmwBQh/zT4R4DsjnAMOVlpJ6pusP58NkC502AdD4Dg0fLfDPfBLznprbX1hRDs8apYv6gNw==}
+
+  '@tachybase/server@1.3.16':
+    resolution: {integrity: sha512-ZP830TFkrkOWX5rJNXBSCKp2KP7KWs8GRCFGmP88V4g0TCADkXnc4b/q2O3O/8mmRexQzAhi05LR8TZzcUr/1Q==}
 
   '@tachybase/test@1.3.15':
     resolution: {integrity: sha512-D7zAO6amBzgt+ew/af4zxARetDQNW8581c9rHzA96hJq+r5nMbOR50CVAsWKJyUCPjLd6COa+zdIHlkDZkLO6g==}
@@ -2041,12 +2079,11 @@ packages:
   '@tachybase/utils@1.3.15':
     resolution: {integrity: sha512-GLjzHr6nLeuItpkyuAXGYkLO+SjL4TPTN9z2ufD5jg0ojmh8ia8D3zCax3MUf/yVH2NbyDSIigQgBMMZ3wMM8w==}
 
+  '@tachybase/utils@1.3.16':
+    resolution: {integrity: sha512-066fqp2TtNIExdejyUlQLZr/I+JpQmPkXmWhVXn0qD1wTdUi/Nc44rwDPrFn+pOJDfJAXDhe/NelwljEd64O6g==}
+
   '@tanem/svg-injector@10.1.68':
     resolution: {integrity: sha512-UkJajeR44u73ujtr5GVSbIlELDWD/mzjqWe54YMK61ljKxFcJoPd9RBSaO7xj02ISCWUqJW99GjrS+sVF0UnrA==}
-
-  '@tego/devkit@1.3.15':
-    resolution: {integrity: sha512-MztBBjn3JlgV8NR/UIA7w+h1FqAhVpa8tj/F/iNEQ/qQ84wPvRJjrrWHHGneoWTCv901qa8rNifCi3Sro4IeLA==}
-    hasBin: true
 
   '@tego/devkit@1.3.16':
     resolution: {integrity: sha512-nHnhD1QbY5lNcfVNvoBgfYW1VFvHiWP29QTLNGk/rWMCYOo4zdpyf9xw18QdWqOvLNDhv2Qvk1tvB7E9M1F06g==}
@@ -9404,12 +9441,43 @@ snapshots:
       lodash: 4.17.21
       minimatch: 5.1.6
 
+  '@tachybase/acl@1.3.16':
+    dependencies:
+      '@tachybase/resourcer': 1.3.16
+      '@tachybase/utils': 1.3.16
+      koa-compose: 4.1.0
+      lodash: 4.17.21
+      minimatch: 5.1.6
+
   '@tachybase/actions@1.3.15(@types/node@24.0.10)(encoding@0.1.13)(mariadb@2.5.6)(mysql2@3.14.1)(pg-hstore@2.3.4)(pg@8.16.3)(sqlite3@5.1.7)':
     dependencies:
       '@tachybase/cache': 1.3.15
       '@tachybase/database': 1.3.15(@types/node@24.0.10)(encoding@0.1.13)(mariadb@2.5.6)(mysql2@3.14.1)(pg-hstore@2.3.4)(pg@8.16.3)(sqlite3@5.1.7)
       '@tachybase/resourcer': 1.3.15
       '@tachybase/utils': 1.3.15
+      koa: 2.16.1
+      lodash: 4.17.21
+      sequelize: 6.37.7(mariadb@2.5.6)(mysql2@3.14.1)(pg-hstore@2.3.4)(pg@8.16.3)(sqlite3@5.1.7)
+    transitivePeerDependencies:
+      - '@types/node'
+      - encoding
+      - ibm_db
+      - mariadb
+      - mysql2
+      - oracledb
+      - pg
+      - pg-hstore
+      - snowflake-sdk
+      - sqlite3
+      - supports-color
+      - tedious
+
+  '@tachybase/actions@1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)':
+    dependencies:
+      '@tachybase/cache': 1.3.16
+      '@tachybase/database': 1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)
+      '@tachybase/resourcer': 1.3.16
+      '@tachybase/utils': 1.3.16
       koa: 2.16.1
       lodash: 4.17.21
       sequelize: 6.37.7(mariadb@2.5.6)(mysql2@3.14.1)(pg-hstore@2.3.4)(pg@8.16.3)(sqlite3@5.1.7)
@@ -9449,6 +9517,28 @@ snapshots:
       - supports-color
       - tedious
 
+  '@tachybase/auth@1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)':
+    dependencies:
+      '@tachybase/actions': 1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)
+      '@tachybase/cache': 1.3.16
+      '@tachybase/database': 1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)
+      '@tachybase/resourcer': 1.3.16
+      '@tachybase/utils': 1.3.16
+      jsonwebtoken: 8.5.1
+    transitivePeerDependencies:
+      - '@types/node'
+      - encoding
+      - ibm_db
+      - mariadb
+      - mysql2
+      - oracledb
+      - pg
+      - pg-hstore
+      - snowflake-sdk
+      - sqlite3
+      - supports-color
+      - tedious
+
   '@tachybase/cache@1.3.15':
     dependencies:
       bloom-filters: 3.0.4
@@ -9457,7 +9547,15 @@ snapshots:
       deepmerge: 4.3.1
       lodash: 4.17.21
 
-  '@tachybase/client@1.3.15(@types/react@18.3.18)(encoding@0.1.13)(luxon@3.6.1)(moment@2.30.1)(monaco-editor@0.52.2)(rc-field-form@2.7.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react-is@18.3.1)(react@18.3.1)(typescript@5.8.3)':
+  '@tachybase/cache@1.3.16':
+    dependencies:
+      bloom-filters: 3.0.4
+      cache-manager: 5.7.6
+      cache-manager-redis-yet: 4.2.0
+      deepmerge: 4.3.1
+      lodash: 4.17.21
+
+  '@tachybase/client@1.3.16(@types/react@18.3.18)(encoding@0.1.13)(luxon@3.6.1)(moment@2.30.1)(monaco-editor@0.52.2)(rc-field-form@2.7.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react-is@18.3.1)(react@18.3.1)(typescript@5.8.3)':
     dependencies:
       '@ahooksjs/use-url-state': 3.5.1(react-router@6.28.1(react@18.3.1))(react@18.3.1)
       '@ant-design/cssinjs': 1.23.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -9474,12 +9572,12 @@ snapshots:
       '@floating-ui/react': 0.26.28(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@js-preview/excel': 1.7.14
       '@lottiefiles/dotlottie-react': 0.9.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@tachybase/components': 1.3.15(luxon@3.6.1)(moment@2.30.1)(monaco-editor@0.52.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@tachybase/evaluators': 1.3.15
-      '@tachybase/requirejs': 1.3.15
-      '@tachybase/schema': 1.3.15(react@18.3.1)
-      '@tachybase/sdk': 1.3.15
-      '@tachybase/utils': 1.3.15
+      '@tachybase/components': 1.3.16(luxon@3.6.1)(moment@2.30.1)(monaco-editor@0.52.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      '@tachybase/evaluators': 1.3.16
+      '@tachybase/requirejs': 1.3.16
+      '@tachybase/schema': 1.3.16(react@18.3.1)
+      '@tachybase/sdk': 1.3.16
+      '@tachybase/utils': 1.3.16
       ahooks: 3.8.5(react@18.3.1)
       antd: 5.22.5(luxon@3.6.1)(moment@2.30.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       antd-style: 3.7.1(@types/react@18.3.18)(antd@5.22.5(luxon@3.6.1)(moment@2.30.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -9541,7 +9639,7 @@ snapshots:
       - supports-color
       - typescript
 
-  '@tachybase/components@1.3.15(luxon@3.6.1)(moment@2.30.1)(monaco-editor@0.52.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
+  '@tachybase/components@1.3.16(luxon@3.6.1)(moment@2.30.1)(monaco-editor@0.52.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)':
     dependencies:
       '@ant-design/cssinjs': 1.23.0(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@ant-design/icons': 5.6.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
@@ -9549,7 +9647,7 @@ snapshots:
       '@dnd-kit/sortable': 8.0.0(@dnd-kit/core@6.3.1(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)
       '@dnd-kit/utilities': 3.2.2(react@18.3.1)
       '@monaco-editor/react': 4.7.0(monaco-editor@0.52.2)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@tachybase/schema': 1.3.15(react@18.3.1)
+      '@tachybase/schema': 1.3.16(react@18.3.1)
       antd: 5.22.5(luxon@3.6.1)(moment@2.30.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       classnames: 2.5.1
       dayjs: 1.11.13
@@ -9572,6 +9670,33 @@ snapshots:
       '@tachybase/database': 1.3.15(@types/node@24.0.10)(encoding@0.1.13)(mariadb@2.5.6)(mysql2@3.14.1)(pg-hstore@2.3.4)(pg@8.16.3)(sqlite3@5.1.7)
       '@tachybase/resourcer': 1.3.15
       '@tachybase/utils': 1.3.15
+      '@types/jsonwebtoken': 8.5.9
+      deepmerge: 4.3.1
+      jsonwebtoken: 8.5.1
+      koa-compose: 4.1.0
+      lodash: 4.17.21
+    transitivePeerDependencies:
+      - '@types/node'
+      - encoding
+      - ibm_db
+      - mariadb
+      - mysql2
+      - oracledb
+      - pg
+      - pg-hstore
+      - snowflake-sdk
+      - sqlite3
+      - supports-color
+      - tedious
+
+  '@tachybase/data-source@1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)':
+    dependencies:
+      '@tachybase/acl': 1.3.16
+      '@tachybase/actions': 1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)
+      '@tachybase/cache': 1.3.16
+      '@tachybase/database': 1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)
+      '@tachybase/resourcer': 1.3.16
+      '@tachybase/utils': 1.3.16
       '@types/jsonwebtoken': 8.5.9
       deepmerge: 4.3.1
       jsonwebtoken: 8.5.1
@@ -9629,6 +9754,44 @@ snapshots:
       - supports-color
       - tedious
 
+  '@tachybase/database@1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)':
+    dependencies:
+      '@tachybase/logger': 1.3.16
+      '@tachybase/utils': 1.3.16
+      async-mutex: 0.3.2
+      chalk: 4.1.2
+      cron-parser: 4.9.0
+      dayjs: 1.11.13
+      debug: 4.4.0
+      deepmerge: 4.3.1
+      dottie: 2.0.6
+      excel-date-to-js: 1.1.5
+      exponential-backoff: 3.1.2
+      flat: 5.0.2
+      glob: 11.0.0
+      graphlib: 2.1.8
+      lodash: 4.17.21
+      mathjs: 10.6.4
+      nanoid: 3.3.11
+      node-fetch: 2.7.0(encoding@0.1.13)
+      qs: 6.14.0
+      semver: 7.7.2
+      sequelize: 6.37.7(mariadb@2.5.6)(mysql2@3.14.1)(pg-hstore@2.3.4)(pg@8.16.3)(sqlite3@5.1.7)
+      umzug: 3.8.2(@types/node@24.0.10)
+    transitivePeerDependencies:
+      - '@types/node'
+      - encoding
+      - ibm_db
+      - mariadb
+      - mysql2
+      - oracledb
+      - pg
+      - pg-hstore
+      - snowflake-sdk
+      - sqlite3
+      - supports-color
+      - tedious
+
   '@tachybase/evaluators@1.3.15':
     dependencies:
       '@formulajs/formulajs': 4.4.8
@@ -9636,9 +9799,18 @@ snapshots:
       lodash: 4.17.21
       mathjs: 10.6.4
 
+  '@tachybase/evaluators@1.3.16':
+    dependencies:
+      '@formulajs/formulajs': 4.4.8
+      '@tachybase/utils': 1.3.16
+      lodash: 4.17.21
+      mathjs: 10.6.4
+
   '@tachybase/globals@1.3.15': {}
 
-  '@tachybase/loader@1.3.15': {}
+  '@tachybase/globals@1.3.16': {}
+
+  '@tachybase/loader@1.3.16': {}
 
   '@tachybase/logger@1.3.15':
     dependencies:
@@ -9652,11 +9824,33 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@tachybase/requirejs@1.3.15': {}
+  '@tachybase/logger@1.3.16':
+    dependencies:
+      chalk: 4.1.2
+      koa: 2.16.1
+      lodash: 4.17.21
+      triple-beam: 1.4.1
+      winston: 3.17.0
+      winston-daily-rotate-file: 5.0.0(winston@3.17.0)
+      winston-transport: 4.9.0
+    transitivePeerDependencies:
+      - supports-color
+
+  '@tachybase/requirejs@1.3.16': {}
 
   '@tachybase/resourcer@1.3.15':
     dependencies:
       '@tachybase/utils': 1.3.15
+      deepmerge: 4.3.1
+      glob: 11.0.0
+      koa-compose: 4.1.0
+      lodash: 4.17.21
+      path-to-regexp2: path-to-regexp@8.2.0
+      qs: 6.14.0
+
+  '@tachybase/resourcer@1.3.16':
+    dependencies:
+      '@tachybase/utils': 1.3.16
       deepmerge: 4.3.1
       glob: 11.0.0
       koa-compose: 4.1.0
@@ -9674,7 +9868,17 @@ snapshots:
       react: 18.3.1
       upper-case: 2.0.2
 
-  '@tachybase/sdk@1.3.15':
+  '@tachybase/schema@1.3.16(react@18.3.1)':
+    dependencies:
+      camel-case: 4.1.2
+      hoist-non-react-statics: 3.3.2
+      lower-case: 2.0.2
+      param-case: 3.0.4
+      pascal-case: 3.1.2
+      react: 18.3.1
+      upper-case: 2.0.2
+
+  '@tachybase/sdk@1.3.16':
     dependencies:
       axios: 1.7.7
       qs: 6.14.0
@@ -9697,6 +9901,71 @@ snapshots:
       '@tachybase/resourcer': 1.3.15
       '@tachybase/schema': 1.3.15(react@18.3.1)
       '@tachybase/utils': 1.3.15
+      '@types/decompress': 4.2.7
+      '@types/ini': 1.3.34
+      '@types/multer': 1.4.13
+      async-mutex: 0.3.2
+      axios: 0.29.0
+      chalk: 4.1.2
+      commander: 9.5.0
+      compression: 1.8.0
+      cron: 2.4.4
+      cronstrue: 2.61.0
+      dayjs: 1.11.13
+      decompress: 4.2.1
+      execa: 5.1.1
+      fast-glob: 3.3.3
+      find-package-json: 1.2.0
+      fs-extra: 11.3.0
+      glob: 11.0.0
+      i18next: 23.16.8
+      ini: 4.1.3
+      koa: 2.16.1
+      koa-bodyparser: 4.4.1
+      koa-compose: 4.1.0
+      lodash: 4.17.21
+      multer: 2.0.1
+      nanoid: 3.3.8
+      qs: 6.14.0
+      react: 18.3.1
+      semver: 7.7.2
+      serve-handler: 6.1.6
+      winston: 3.17.0
+      ws: 8.18.2
+      xpipe: 1.0.8
+    transitivePeerDependencies:
+      - '@types/node'
+      - bufferutil
+      - debug
+      - encoding
+      - ibm_db
+      - mariadb
+      - mysql2
+      - oracledb
+      - pg
+      - pg-hstore
+      - snowflake-sdk
+      - sqlite3
+      - supports-color
+      - tedious
+      - utf-8-validate
+
+  '@tachybase/server@1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)':
+    dependencies:
+      '@hapi/topo': 6.0.2
+      '@koa/cors': 5.0.0
+      '@tachybase/acl': 1.3.16
+      '@tachybase/actions': 1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)
+      '@tachybase/auth': 1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)
+      '@tachybase/cache': 1.3.16
+      '@tachybase/data-source': 1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)
+      '@tachybase/database': 1.3.16(@types/node@24.0.10)(encoding@0.1.13)(mysql2@3.14.1)(pg@8.16.3)(sqlite3@5.1.7)
+      '@tachybase/evaluators': 1.3.16
+      '@tachybase/globals': 1.3.16
+      '@tachybase/logger': 1.3.16
+      '@tachybase/resourcer': 1.3.16
+      '@tachybase/schema': 1.3.16(react@18.3.1)
+      '@tachybase/utils': 1.3.16
       '@types/decompress': 4.2.7
       '@types/ini': 1.3.34
       '@types/multer': 1.4.13
@@ -9821,70 +10090,24 @@ snapshots:
       multer: 2.0.1
       object-path: 0.11.8
 
+  '@tachybase/utils@1.3.16':
+    dependencies:
+      '@hapi/topo': 6.0.2
+      '@rc-component/mini-decimal': 1.1.0
+      dayjs: 1.11.13
+      dedupe: 3.0.3
+      deepmerge: 4.3.1
+      flat-to-nested: 1.1.1
+      graphlib: 2.1.8
+      lodash: 4.17.21
+      multer: 2.0.1
+      object-path: 0.11.8
+
   '@tanem/svg-injector@10.1.68':
     dependencies:
       '@babel/runtime': 7.27.6
       content-type: 1.0.5
       tslib: 2.8.1
-
-  '@tego/devkit@1.3.15(@pnpm/logger@5.2.0)(@types/node@24.0.10)(jiti@2.4.2)(postcss@8.5.6)(yaml@2.8.0)':
-    dependencies:
-      '@hapi/topo': 6.0.2
-      '@npmcli/arborist': 9.1.2
-      '@pnpm/workspace.find-packages': 1.1.12(@pnpm/logger@5.2.0)
-      '@rsbuild/core': 1.4.2
-      '@rsbuild/plugin-less': 1.2.4(@rsbuild/core@1.4.2)
-      '@rsbuild/plugin-react': 1.3.2(@rsbuild/core@1.4.2)
-      '@rslib/core': 0.10.4(typescript@5.8.3)
-      '@types/fs-extra': 11.0.4
-      '@umijs/utils': 3.5.43
-      '@vercel/ncc': 0.38.3
-      '@vitejs/plugin-react': 4.6.0(vite@5.4.19(@types/node@24.0.10))
-      chalk: 5.4.1
-      commander: 12.1.0
-      dotenv: 16.5.0
-      execa: 8.0.1
-      fast-glob: 3.3.3
-      fs-extra: 11.3.0
-      lodash: 4.17.21
-      npm-packlist: 10.0.0
-      open: 10.1.2
-      p-all: 3.0.0
-      package-json: 10.0.1
-      pm2: 6.0.8
-      portfinder: 1.0.37
-      semver: 7.7.2
-      serve: 14.2.4
-      tar: 7.4.3
-      tree-kill: 1.2.2
-      tsconfig-paths: 4.2.0
-      tsup: 8.3.5(jiti@2.4.2)(postcss@8.5.6)(tsx@4.20.3)(typescript@5.8.3)(yaml@2.8.0)
-      tsx: 4.20.3
-      typescript: 5.8.3
-      update-notifier: 7.3.1
-      vite: 5.4.19(@types/node@24.0.10)
-      vite-plugin-css-injected-by-js: 3.5.2(vite@5.4.19(@types/node@24.0.10))
-      yargs-parser: 13.1.2
-      yocto-spinner: 1.0.0
-    transitivePeerDependencies:
-      - '@microsoft/api-extractor'
-      - '@pnpm/logger'
-      - '@swc/core'
-      - '@types/node'
-      - bufferutil
-      - jiti
-      - less
-      - lightningcss
-      - postcss
-      - sass
-      - sass-embedded
-      - stylus
-      - sugarss
-      - supports-color
-      - terser
-      - utf-8-validate
-      - webpack-hot-middleware
-      - yaml
 
   '@tego/devkit@1.3.16(@pnpm/logger@5.2.0)(@types/node@24.0.10)(jiti@2.4.2)(postcss@8.5.6)(yaml@2.8.0)':
     dependencies:
