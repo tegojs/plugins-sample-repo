@@ -5,6 +5,7 @@
   "private": true,
   "main": "index.js",
   "scripts": {
+    "taze": "taze",
     "tachybase": "tachybase",
     "tb": "tachybase",
     "dev": "tachybase dev",
@@ -16,14 +17,15 @@
   },
   "devDependencies": {
     "@tego/devkit": "1.3.16",
-    "tego": "workspace:*",
     "pm2": "6.0.8",
     "sqlite3": "5.1.7",
+    "taze": "19.1.0",
+    "tego": "workspace:*",
     "tsconfig-paths": "4.2.0",
     "tsx": "4.20.3"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "packageManager": "pnpm@10.12.3"
+  "packageManager": "pnpm@10.12.4"
 }
