@@ -13,6 +13,10 @@ export default defineConfig({
     '**/node_modules/**',
     '**/plugins/**',
   ],
+   packageMode: {
+    '@tego/*': 'newest',
+    '@tachybase/*': 'newest',
+  },
   // disable checking for "overrides" package.json field
   depFields: {
     overrides: false
