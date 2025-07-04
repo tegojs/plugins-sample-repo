@@ -83,7 +83,7 @@
     "@tachybase/cache": "^1.3.16",
     "@tachybase/client": "^1.3.16",
     "@tachybase/logger": "^1.3.16",
-    "@types/lodash": "4.17.18",
+    "@types/lodash": "4.17.20",
     "@yao-pkg/pkg": "6.5.1"
   },
   "pkg": {
